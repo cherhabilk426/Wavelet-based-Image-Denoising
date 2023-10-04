@@ -1,0 +1,3 @@
+file:///C:/Users/SINA/Downloads/Adermann_informaatika_2019.pdf
+https://github.com/TornOne/CS-Thesis-2019/tree/master
+Wavelet-based Image Denoising
